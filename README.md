@@ -18,6 +18,10 @@ You can install the required packages using pip:
 
 ```bash
 pip install selenium
+```
+git clone https://github.com/yourusername/mangaApp_Automation.git
+cd mangaApp_Automation
+
 
 
 ### Notes:
